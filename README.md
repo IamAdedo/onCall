@@ -1,9 +1,10 @@
-# TropiCare-Telemedicine-for-Tropical-Low-Resource-Settings
-TropiCare is a telemedicine web &amp; mobile backend + admin console designed specifically for clinical delivery in tropical, under-resourced, and developing regions. The system focuses on offline-first workflows, low-bandwidth media (adaptive compression, selective sync), SMS/USSD integration, and culturally localizable interfaces.
+# onCall Telemedicine for Tropical and Low Resource Settings
+
+onCall is a telemedicine web &amp; mobile backend + admin console designed specifically for clinical delivery in tropical, under-resourced, and developing regions. The system focuses on offline-first workflows, low-bandwidth media (adaptive compression, selective sync), SMS/USSD integration, and culturally localizable interfaces.
 
 
 ---
-Why TropiCare?
+Why onCall?
 
 Healthcare delivery in low-resource settings has unique constraints:
 
@@ -18,7 +19,7 @@ Cultural & language localization
 Lower infrastructure budgets (cost-focused)
 
 
-TropiCare is built around these constraints: modular, offline-first, and prioritizes features with the highest clinical impact.
+onCall is built around these constraints: modular, offline-first, and prioritizes features with the highest clinical impact.
 
 
 ---
